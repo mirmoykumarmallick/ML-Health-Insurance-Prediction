@@ -43,19 +43,25 @@ The dataset used in this project is a health insurance dataset that contains the
    git clone <https://github.com/mirmoykumarmallick/ML-Health-Insurance-Prediction>
 2. **Open the Notebook**:
    - Navigate to the cloned directory and open the .ipynb file in Google Colab or Jupyter Notebook.
+     
 3. **Install Dependencies: If running locally, make sure to install the required libraries**:
    ```bash
    pip install pandas seaborn scikit-learn xgboost
+   
 4. **Run the Code**:
    - Follow the steps in the notebook to load the data, preprocess it, and build machine learning models.
    - Analyze the performance of different models and visualize the results.
+     
 5. **Explore Further**:
    - Feel free to experiment with hyperparameter tuning and adding new features for better predictions.
+     
 ## Results
 - The Random Forest and XGBoost models significantly outperform the Linear Regression model in terms of prediction accuracy.
 - Key insights reveal that smoking status, BMI, and age are the most significant factors influencing insurance premiums.
+  
 ## License
 - This project is licensed under the MIT License - see the LICENSE file for details.
+  
 ## Author
 - Mirmoy Kumar Mallick
 - LinkedIn Profile: linkedin.com/in/mirmoy-kumar-mallick
