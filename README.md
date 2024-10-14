@@ -40,4 +40,4 @@ The dataset used in this project is a health insurance dataset that contains the
 
 1. **Clone this Repository**:
    ```bash
-   git clone <repository_link>
+   git clone <[repository_link](https://github.com/mirmoykumarmallick/ML-Health-Insurance-Prediction)>
