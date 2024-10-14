@@ -41,3 +41,6 @@ The dataset used in this project is a health insurance dataset that contains the
 1. **Clone this Repository**:
    ```bash
    git clone <https://github.com/mirmoykumarmallick/ML-Health-Insurance-Prediction>
+1. **Open the Notebook**:
+   ```bash
+   Navigate to the cloned directory and open the .ipynb file in Google Colab or Jupyter Notebook.
